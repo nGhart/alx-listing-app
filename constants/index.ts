@@ -1,6 +1,1 @@
-export interface CardProps {
-  text: string;
-}
-export interface ButtonProps {
-  text: string;
-}
+export const BASE_URL = "/api/v1";
